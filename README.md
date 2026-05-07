@@ -1,6 +1,8 @@
 # Claude Certified Architect
 
-![Claude Certified Architect](images/claude-certified-architect.png)
+Preparing for the Claude Certified Architect Exam?
+
+I am building a comprehensive, open-source study guide to help us master the skills needed for Claude Certified Architect certification.
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -45,3 +47,5 @@
 ---
 
 [Full course details →](lectures/README.md)
+
+![Claude Certified Architect](images/claude-certified-architect.png)

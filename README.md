@@ -19,7 +19,7 @@ I am building a comprehensive, open-source study guide to help us master the ski
 <pre>
 <b>Domain 1 · Agent Architecture &amp; Orchestration</b>  27%
 ├── <a href="lectures/L1.1_agent_loop/README.md">L1.1 · Agent Loop</a>  ~3h
-├── L1.2 · Multi-Agent Orchestration  ~5h
+├── <a href="lectures/L1.2_multi_agent/README.md">L1.2 · Multi-Agent Orchestration  ~5h
 └── L1.3 · Hooks &amp; Decomposition  ~4h
 
 <b>Domain 2 · Tool Design &amp; MCP Integration</b>

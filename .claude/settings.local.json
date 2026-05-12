@@ -1,14 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(awk '{print NR+5, length\\($0\\), $0}')",
-      "FileSystem.read(./**)",
-      "FileSystem.write(./**)"
+      "Bash(awk '{print NR+5, length($0), $0}')",
+      "Read(*)",
+      "Write(*)"
     ],
     "deny": [
-      "git commit",
-      "git push",
-      "git remote *"
+      "Bash(git commit*)",
+      "Bash(git push*)"
     ]
   }
 }
